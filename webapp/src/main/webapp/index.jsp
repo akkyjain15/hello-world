@@ -4,7 +4,7 @@
     <p>Please fill this form to create an account for devops.</p>
     <hr>
      
-    <label for="Name"><b>Enter Full Name</b></label>
+    <label for="Name"><b>Akshay Jain</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
